@@ -81,3 +81,5 @@ ios/openssl_libcrypto.xcframework
 # Android built-frameworks
 android-native/go-internal-sdk/*.aar
 android-native/mpc-sdk/*.aar
+
+.fake
